@@ -1,5 +1,7 @@
-# AdaptiveInterventions
+# Adaptive Interventions
 Analysis on data collected from an experiment aimed at assessing the effect of mental health mitigation strategies (ie. breathing exercises) on academic performance
+
+This reaserch was done as part of my CSC 2558: Topics in Human Computer Interaction course at the University of Toronto (2021)
 
 ## Project Abstract
 
